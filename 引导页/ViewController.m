@@ -19,6 +19,7 @@
     [super viewDidLoad];
     
     NSLog(@"测试");
+    NSLog(@"测试git");
     AViewController  *a=[AViewController new];
     AViewController  *b=[AViewController new];
     AViewController *c=[AViewController new]
